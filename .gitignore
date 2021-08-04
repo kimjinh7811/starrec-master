@@ -1,0 +1,5 @@
+.vscode/
+saves/*
+data/
+**/__pycache__/
+.idea
